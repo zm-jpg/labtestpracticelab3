@@ -25,8 +25,8 @@ def calculate_average_salary():
 5. lesgoo00o0o0o0o0o0o
 90. hehe
 
-|this|is|a||table|
-|----|-----|----|----|
+|this|is     |a     |table|
+|----|:-----:|:----:|----:|
 |im|not|a|gae|
 |Im|straight|Im|straight|
 |5|1|1|2|
